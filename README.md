@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Min Seok 👋</h1>
 <h3 align="center">Backend Developer</h3>
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=300&section=header&text=🍀LEE%20SEUNG%20YEON🍀&fontSize=65) -->
+## 📫 Contact
+- Email: devsong42@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-song42&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -21,6 +22,3 @@
 ![](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-## 📫 Contact
-- Email: devsong42@gmail.com
