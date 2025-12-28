@@ -4,7 +4,7 @@
 ## 📫 Contact
 - Email: devsong42@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-song42&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=dev-song42&layout=compact&hide_border=true&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
 
 ## 🛠 Tech Stack
 
